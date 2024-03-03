@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<pre>
+1、match、search、findall匹配单独使用的使用流程（建议单独使用，而不是使用compile联合使用，因为match等内部是使用compile实现的）
+	①. 先确定匹配的模式pattern
+	②. 将pattern应用在match方法里面
+	③. match方法返回matched（他是一个match类型或者None），里面是保存的匹配成功的信息
+	④. 使用matched的group（）方法获取到一个匹配成功的字符串类型的信息
+    1 	    pattern = r'^\d+\.'
+    2
+    3 	    matched = re.match(pattern, original)
+    4 	    result = groups_matched.group()
+
+2、compile的使用流程
+	①. 使用 compile 函数将正则表达式的字符串形式编译为一个 Pattern 对象
+	②. 通过 Pattern 对象提供的一系列方法（match、search、findall 方法）对文本进行匹配查找，获得匹配结果（一个 Match 对象）
+	③. 最后使用 Match 对象提供的属性和方法获得信息，根据需要进行其他的操作
+	    1 	    _pattern = r'\w*a\w*'
+	    2 	    _content = 'Hello, I am Jack, from Chongqing, a mountain city, nice to meet you……'
+	    3
+	    4 	    regex = re.compile(pattern)
+	    5 	    result = regex.match(content)
+
+
+跟compile配合的match、search、findall 方法区别
+	Ø match匹配句子的第一个单词，如果匹配成功了，就返回匹配的结果（即这个单词），如果匹配失败就返回None。返回值是一个match类型的结果（无论句子中多少个单词符合条件，只判断第一个单词是否符合条件），或者None。
+	Ø search匹配的时候，是扫描整个句子。如果句子内有一个符合这个模式的单词，就返回这个单词。无论多少个符合模式的单词，只匹配一个结果，即第一个符合模式的单词。
+	Ø findall匹配所有符合条件的单词，返回值为内部有多个元素为字符串的数组。
+
+总结帖
+
+	返回值类型	匹配位置	使用方式
+compile + match	match类型	仅字符串第一单词符合模式的时候，返回此单词；否则None	regex = re.compile(pattern)
+			result = regex.match(content)
+compile + search	match类型	字符串只要有一单词符合模式的时候，即返回此单词；否则None
+compile + findall	字符串数值	返回字符串中所有符合模式的单词
+单独使用 match	match类型	仅字符串第一单词符合模式的时候，返回此单词；否则None	result = re.match(pattern, content)
+单独使用 search	match类型	字符串只要有一单词符合模式的时候，即返回此单词；否则None
+单独使用 findall	match类型	返回字符串中所有符合模式的单词
+
+</pre>
+</body>
+</html>
