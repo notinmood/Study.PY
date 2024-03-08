@@ -9,3 +9,4 @@ disable =
     unnecessary-pass,
     too-few-public-methods,
     import-error,
+    fixme,# 取消掉todo等注释的提示
