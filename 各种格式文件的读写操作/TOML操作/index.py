@@ -14,9 +14,6 @@ from tomlkit import TOMLDocument
 
 from VersionManage.versionHelper import VersionHelper
 
-# from 各种格式文件的读写操作.TOML操作.tomlMate import TomlMate
-
-
 if __name__ == '__main__':
     here = os.path.abspath(os.path.dirname(__file__))
     toml_file_full_name = os.path.join(here, "_res", "my.toml")
