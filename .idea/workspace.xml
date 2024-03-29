@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1059a421-b14d-4fb7-b1f2-2acd51890bd6" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/各种格式文件的读写操作/TOML操作/0.使用内置的toml模块.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +31,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2eM2OgJD4xjIa6eggf5SnJuXfML" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -105,7 +108,9 @@
       <updated>1711700097178</updated>
       <workItem from="1711700098469" duration="10522000" />
       <workItem from="1711715163616" duration="2654000" />
-      <workItem from="1711729154852" duration="633000" />
+      <workItem from="1711729154852" duration="1458000" />
+      <workItem from="1711753538338" duration="363000" />
+      <workItem from="1711754569404" duration="1153000" />
     </task>
     <task id="LOCAL-00001" summary="chore: 改为使用poetry管理项目">
       <option name="closed" value="true" />
@@ -179,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711715920742</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feat: 删除无用的文件">
+      <option name="closed" value="true" />
+      <created>1711730028829</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711730028829</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
