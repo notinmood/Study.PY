@@ -9,9 +9,8 @@
 import os.path
 
 from BasicLibrary.data.tomlMate import TomlMate
+from BasicLibrary.data.versionHelper import VersionHelper
 from BasicLibrary.projectHelper import ProjectHelper
-
-from VersionManage.versionHelper import VersionHelper
 
 
 def execute():
