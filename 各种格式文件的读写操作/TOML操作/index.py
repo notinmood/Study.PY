@@ -12,6 +12,8 @@ import tomlkit
 from BasicLibrary.data.tomlMate import TomlMate
 from tomlkit import TOMLDocument
 
+from 各种格式文件的读写操作.TOML操作.versionHelper import VersionHelper
+
 # from 各种格式文件的读写操作.TOML操作.tomlMate import TomlMate
 
 
@@ -63,5 +65,12 @@ if __name__ == '__main__':
             f.write(toml_doc.as_string())
         pass
 
-        mate.set(node_path, "0.2.3")
+        print("──Version设置───────────────────────────────────")
+        old_version = mate.get("tool/poetry/version")
+        print(old_version)
+
+        new_version = VersionHelper.increase_patch(old_version)
+        print(new_version)
+
+        mate.set(node_path, new_version)
     pass
