@@ -1,4 +1,9 @@
-1、更新公司类库 `BasicLibrary.PY` 的命令： 
+
+更新公司类库 `BasicLibrary.PY` 的命令：`poetry update BasicLibrary.PY`
+
+
+--以下说明过期--
+1、更新公司类库 `BasicLibrary.PY` 的命令：
 ```
 pip install BasicLibrary.PY -U
 # (因为本地的pip通常都为了加速，进行过换源处理了，换源之后缓存更新会比较慢。

@@ -9,9 +9,11 @@
 import os
 
 import tomlkit
+from BasicLibrary.data.tomlMate import TomlMate
 from tomlkit import TOMLDocument
 
-from 各种格式文件的读写操作.TOML操作.tomlMate import TomlMate
+# from 各种格式文件的读写操作.TOML操作.tomlMate import TomlMate
+
 
 if __name__ == '__main__':
     here = os.path.abspath(os.path.dirname(__file__))
