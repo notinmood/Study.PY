@@ -34,6 +34,7 @@ class VersionHelper(object):
     def increase_patch(cls, original_version: str):
         """
         给版本号中的修正版本号加1
+        param:original_version: 原始版本号，形如“1.2.3”
         """
         old_sub_string = cls.get_digits(original_version)
         digit_list = list(map(int, old_sub_string.split(".")))
