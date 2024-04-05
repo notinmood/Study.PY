@@ -9,4 +9,10 @@
 import tomllib
 
 if __name__ == '__main__':
-    tomllib.load("config.toml")
+    # here = os.path.abspath(os.path.dirname(__file__))
+    # toml_file = os.path.join(here, r"_res\my.toml")
+    toml_file = r"_res\my.toml"
+    with open(toml_file, "rb") as _file:
+        toml = tomllib.load(_file)
+    print(toml)
+    pass
