@@ -1,7 +1,12 @@
 说明：
 
 特别说明：
-//TODO:xiedali@2023-12-08 是否JetBrains本是就支持mypy？
+
+PyCharm本身支持mypy，但需要安装插件，具体方法请参考官方文档：https://www.jetbrains.com/help/pycharm/type-hinting-in-pycharm.html#mypy-type-checker
+另外PyCharm本身就提供了类型提示，不需要安装mypy，也能进行静态类型校验。
+如果对PyCharm本身提供的类型提示，或者mypy的类型提示不满意，可以尝试使用其他的静态类型检测工具，比如pylint、pyright等。
+-> 现在推荐使用pylint
+
 
 使用mypy进行静态类型检测。
 
