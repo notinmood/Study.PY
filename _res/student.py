@@ -9,10 +9,12 @@
 
 
 class Student(object):
-    def __init__(self, name, age, grade):
+    def __init__(self, name, age, grade, sex="male", score=60):
         self.name = name
         self.age = age
         self.grade = grade
+        self.sex = sex
+        self.score = score
 
     def __str__(self):
         return "Student object (name: %s, age: %d, grade: %d)" % (self.name, self.age, self.grade)
@@ -26,7 +28,7 @@ class Student(object):
     def __getitem__(self, item):
         if item == 0:
             return self.name
-    pass
+        pass
 
 
 pass

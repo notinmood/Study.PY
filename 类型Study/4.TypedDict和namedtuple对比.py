@@ -15,6 +15,7 @@ from typing import TypedDict
 
 if __name__ == '__main__':
     # 1.  TypedDict字典类型
+    # TypedDict的目的是保证键的名称是确定的；值的类型也是确定的。
     User = TypedDict('User', {"name": str, "age": int, "sex": str})
     # 使用快捷方式创建字典后，获得类型
     print(User)
@@ -23,14 +24,6 @@ if __name__ == '__main__':
     print(myUser)
     print(myUser['name'])
     print(myUser['age'])
-
-    # # 使用强类型字典的时候，可以直接使用key引用，不需要字符串形式
-    # User.name = 'shandong'
-    # # User.age = 25
-    # # User.sex = 'male'
-    #
-    # print(User.name)
-    # print(User.age)
 
     print("──分割线───────────────────────────────────")
 

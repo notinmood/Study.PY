@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "Python.Study"
-version = "0.1.17"
+version = "0.1.20"
 description = ""
 authors = ["解大劦 <develope@163.com>"]
 readme = "README.md"
@@ -10,6 +10,7 @@ readme = "README.md"
 python = "^3.12"
 basiclibrary-py = "^0.6.13"
 tomlkit = "^0.12.4"
+pyautogui = "^0.9.54"
 
 [tool.poetry.group.dev.dependencies]
 pylint = "^3.1.0"
@@ -19,8 +20,8 @@ pytest = "^8.0"
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
-# 使用国内的类库镜像源
-[[tool.poetry.source]]
-name = "mirrors"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
-priority = "default"
+## 使用国内的类库镜像源
+#[[tool.poetry.source]]
+#name = "mirrors"
+#url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
+#priority = "default"
