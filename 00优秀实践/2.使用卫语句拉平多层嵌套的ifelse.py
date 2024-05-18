@@ -55,7 +55,7 @@ def flatten_clause1(student: Student) -> Student | None:
 
 
 def flatten_clause2(student: Student) -> Student | None:
-    # 【OK】如果是复杂的判定，可以用提前退出的while循环来实现拉平效果
+    # 【OK】如果是复杂的判定，可以用有提前退出的while循环来实现拉平效果
     result = None  # 结果信息
     flag = True  # 标记是否满足条件
     while flag:  # 无限循环，直到满足条件退出

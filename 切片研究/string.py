@@ -25,6 +25,7 @@ def operate1():
     print("逆序截取")
     print(my_str[:-5:-3])  # 逆序截取，具体啥意思没搞明白？
 
+
 pass
 
 

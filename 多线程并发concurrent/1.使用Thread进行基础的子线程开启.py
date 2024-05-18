@@ -14,7 +14,7 @@ from threading import Thread, current_thread
 
 def worker(name: str, num: int) -> None:
     for i in range(num):
-        print(f"我在线程{name}中执行,第{i}次；但我真正的名字是{current_thread().name}")
+        print(f"我在线程【{name}】中执行,第{i}次；但我真正的名字是:【{current_thread().name}】")
     pass
 
 

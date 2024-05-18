@@ -1,5 +1,4 @@
 import sys
-from builtins import *
 
 if __name__ == '__main__':
     _len = len(sys.argv)

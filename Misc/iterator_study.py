@@ -1,6 +1,3 @@
-from builtins import *
-
-
 def add(s, x):
     return s + x
 

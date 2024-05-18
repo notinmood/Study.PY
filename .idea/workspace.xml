@@ -5,25 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1059a421-b14d-4fb7-b1f2-2acd51890bd6" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/00优秀实践/1.拉平多层嵌套的ifelse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyAutoGUID.Study/01.入门.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyAutoGUID.Study/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/各种格式文件的读写操作/JSON操作/01.读取.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/抽象类型和抽象方法/defineData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/抽象类型和抽象方法/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/类型Study/0.各种数据结构的定义方式汇总.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonSceneConfigState.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonSceneConfigState.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00.TEMP/abc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00.TEMP/字符串分割.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00优秀实践/.README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/拼音转换/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/拼音转换/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORT研究/.README.md" beforeDir="false" afterPath="$PROJECT_DIR$/IMPORT研究/.README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_res/student.py" beforeDir="false" afterPath="$PROJECT_DIR$/_res/student.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00优秀实践/1.拉平多层嵌套的ifelse.py" beforeDir="false" afterPath="$PROJECT_DIR$/00优秀实践/2.使用卫语句拉平多层嵌套的ifelse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/F1.2.生成器和迭代器、可迭代对象/02.迭代器和可迭代对象（比如列表）的不同.py" beforeDir="false" afterPath="$PROJECT_DIR$/F1.2.生成器和迭代器、可迭代对象/02.迭代器和可迭代对象（比如列表）的不同.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc/PandasStudy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/PandasStudy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc/ThreadStudy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/ThreadStudy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc/iterator_study.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/iterator_study.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegexStudy/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/RegexStudy/index.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/优秀的内置类库/Path库/.README.md" beforeDir="false" afterPath="$PROJECT_DIR$/优秀的内置类库/Path库/.README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/优秀的内置类库/Path库/01.Path类.py" beforeDir="false" afterPath="$PROJECT_DIR$/优秀的内置类库/Path库/01.Path类.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/各种格式文件的读写操作/JSON操作/_res/jianying_draft_content.json" beforeDir="false" afterPath="$PROJECT_DIR$/各种格式文件的读写操作/JSON操作/_res/jianying_draft_content.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/抽象类型和抽象方法/.README.md" beforeDir="false" afterPath="$PROJECT_DIR$/抽象类型和抽象方法/.README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/类型Study/4.TypedDict和namedtuple对比.py" beforeDir="false" afterPath="$PROJECT_DIR$/类型Study/4.TypedDict和namedtuple对比.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/类型Study/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/类型Study/.README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/切片研究/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/切片研究/list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/切片研究/string.py" beforeDir="false" afterPath="$PROJECT_DIR$/切片研究/string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/命令行研究/CommandLineArgs.py" beforeDir="false" afterPath="$PROJECT_DIR$/命令行研究/CommandLineArgs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程并发concurrent/1.使用Thread进行基础的子线程开启.py" beforeDir="false" afterPath="$PROJECT_DIR$/多线程并发concurrent/1.使用Thread进行基础的子线程开启.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,11 +74,14 @@
     "Python.01.Path类.executor": "Run",
     "Python.01.入门.executor": "Run",
     "Python.01.读取.executor": "Run",
+    "Python.1.使用Thread进行基础的子线程开启.executor": "Run",
     "Python.1.拉平多层嵌套的ifelse.executor": "Run",
     "Python.1.排序算法测试.executor": "Run",
+    "Python.index (1).executor": "Run",
     "Python.index.executor": "Run",
     "Python.range的取值范围研究.executor": "Run",
     "Python.using.executor": "Run",
+    "Python.字符串分割.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -87,11 +89,13 @@
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "E:/myworkspace/Python.Study/语言技巧",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editing.templates",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -101,8 +105,8 @@
       <recent name="E:\myworkspace\Python.Study\VersionManage" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1.拉平多层嵌套的ifelse">
-    <configuration name="01.读取" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.index (1)">
+    <configuration name="字符串分割" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python.Study" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,58 +115,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/各种格式文件的读写操作/JSON操作" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/00.TEMP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/各种格式文件的读写操作/JSON操作/01.读取.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="01.Path类" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python.Study" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/优秀的内置类库/Path库" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/优秀的内置类库/Path库/01.Path类.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="01.入门" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python.Study" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyAutoGUID.Study" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyAutoGUID.Study/01.入门.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00.TEMP/字符串分割.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1.拉平多层嵌套的ifelse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2.使用卫语句拉平多层嵌套的ifelse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python.Study" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,7 +166,30 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00优秀实践/1.拉平多层嵌套的ifelse.py" />
+      <option name="SCRIPT_NAME" value="E:\myworkspace\Python.Study\00优秀实践\2.使用卫语句拉平多层嵌套的ifelse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="index (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python.Study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/拼音转换" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/拼音转换/index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,10 +223,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1.拉平多层嵌套的ifelse" />
+        <item itemvalue="Python.index (1)" />
         <item itemvalue="Python.index" />
-        <item itemvalue="Python.01.读取" />
-        <item itemvalue="Python.01.Path类" />
+        <item itemvalue="Python.字符串分割" />
+        <item itemvalue="Python.2.使用卫语句拉平多层嵌套的ifelse" />
         <item itemvalue="Python.1.排序算法测试" />
       </list>
     </recent_temporary>
@@ -284,7 +265,24 @@
       <workItem from="1713144089698" duration="698000" />
       <workItem from="1713825833887" duration="1634000" />
       <workItem from="1713828649382" duration="5380000" />
-      <workItem from="1713865204505" duration="8925000" />
+      <workItem from="1713865204505" duration="9655000" />
+      <workItem from="1713920205063" duration="2544000" />
+      <workItem from="1713998708685" duration="1666000" />
+      <workItem from="1714000713108" duration="2347000" />
+      <workItem from="1714266601886" duration="609000" />
+      <workItem from="1714386851104" duration="1002000" />
+      <workItem from="1714389549206" duration="2307000" />
+      <workItem from="1714568171792" duration="1906000" />
+      <workItem from="1714570422475" duration="71000" />
+      <workItem from="1714570821311" duration="1138000" />
+      <workItem from="1714604014328" duration="2641000" />
+      <workItem from="1714619872894" duration="1688000" />
+      <workItem from="1714636157050" duration="495000" />
+      <workItem from="1714636771724" duration="707000" />
+      <workItem from="1714639549843" duration="526000" />
+      <workItem from="1714640367860" duration="2866000" />
+      <workItem from="1714798722963" duration="1738000" />
+      <workItem from="1715068509635" duration="1044000" />
     </task>
     <task id="LOCAL-00001" summary="chore: 改为使用poetry管理项目">
       <option name="closed" value="true" />
@@ -414,7 +412,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712568381704</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="feat: 添加优秀实践">
+      <option name="closed" value="true" />
+      <created>1713883229357</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1713883229357</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -438,14 +444,18 @@
     <MESSAGE value="feat: 删除无用的文件" />
     <MESSAGE value="feat: 添加toml个税文件的研究" />
     <MESSAGE value="refactor: 整理文件到对应文件夹，使之更加容易学习和认知" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: 整理文件到对应文件夹，使之更加容易学习和认知" />
+    <MESSAGE value="feat: 添加优秀实践" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 添加优秀实践" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Study$0_toml.coverage" NAME="0.使用内置的toml模块 覆盖结果" MODIFIED="1711846508425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/各种格式文件的读写操作/TOML操作" />
     <SUITE FILE_PATH="coverage/Python_Study$using.coverage" NAME="using 覆盖结果" MODIFIED="1713868729412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/抽象类型和抽象方法" />
+    <SUITE FILE_PATH="coverage/Python_Study$index__1_.coverage" NAME="index (1) 覆盖结果" MODIFIED="1715069434892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/拼音转换" />
     <SUITE FILE_PATH="coverage/Python_Study$1_ifelse.coverage" NAME="1.拉平多层嵌套的ifelse 覆盖结果" MODIFIED="1713882854620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00优秀实践" />
     <SUITE FILE_PATH="coverage/Python_Study$range.coverage" NAME="range的取值范围研究 覆盖结果" MODIFIED="1712564392900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Misc" />
     <SUITE FILE_PATH="coverage/Python_Study$01_Path.coverage" NAME="01.Path类 覆盖结果" MODIFIED="1712643710048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/优秀的内置类库/Path库" />
+    <SUITE FILE_PATH="coverage/Python_Study$.coverage" NAME="字符串分割 覆盖结果" MODIFIED="1714267190741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00.TEMP" />
+    <SUITE FILE_PATH="coverage/Python_Study$1_Thread.coverage" NAME="1.使用Thread进行基础的子线程开启 覆盖结果" MODIFIED="1714002939876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程并发concurrent" />
     <SUITE FILE_PATH="coverage/Python_Study$index.coverage" NAME="index 覆盖结果" MODIFIED="1711703928594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/各种格式文件的读写操作/TOML操作" />
     <SUITE FILE_PATH="coverage/Python_Study$1_.coverage" NAME="1.排序算法测试 覆盖结果" MODIFIED="1712564779056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Misc" />
     <SUITE FILE_PATH="coverage/Python_Study$01_.coverage" NAME="01.入门 覆盖结果" MODIFIED="1713831566166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyAutoGUID.Study" />
