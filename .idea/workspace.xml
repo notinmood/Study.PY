@@ -5,24 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1059a421-b14d-4fb7-b1f2-2acd51890bd6" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/00.TEMP/abc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00.TEMP/字符串分割.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00优秀实践/.README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/拼音转换/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/拼音转换/index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stream功能研究/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stream功能研究/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ULID使用/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ULID使用/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元类metaclass/0.README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元类metaclass/0.type方法的应用-1.获取目标数据的类型.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元类metaclass/0.type方法的应用-2.创建数据类型.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元类metaclass/1.默认情形下type是class的元类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元类metaclass/2.开发人员可以通过关键字metaclass为目标类指定特定的元类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元类metaclass/3.开发人员可以通过继承type自定义元类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/抽象类型和抽象方法/0.定义抽象类的两种方式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.Study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.Study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00优秀实践/1.拉平多层嵌套的ifelse.py" beforeDir="false" afterPath="$PROJECT_DIR$/00优秀实践/2.使用卫语句拉平多层嵌套的ifelse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/F1.2.生成器和迭代器、可迭代对象/01.迭代器入门.py" beforeDir="false" afterPath="$PROJECT_DIR$/F1.2.生成器和迭代器、可迭代对象/01.使用iter()函数将可迭代的对象转化成迭代器Iterator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/F1.2.生成器和迭代器、可迭代对象/02.迭代器和可迭代对象（比如列表）的不同.py" beforeDir="false" afterPath="$PROJECT_DIR$/F1.2.生成器和迭代器、可迭代对象/02.迭代器和可迭代对象（比如列表）的不同.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Misc/PandasStudy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/PandasStudy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Misc/ThreadStudy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/ThreadStudy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Misc/iterator_study.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/iterator_study.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegexStudy/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/RegexStudy/index.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/切片研究/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/切片研究/list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/切片研究/string.py" beforeDir="false" afterPath="$PROJECT_DIR$/切片研究/string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/命令行研究/CommandLineArgs.py" beforeDir="false" afterPath="$PROJECT_DIR$/命令行研究/CommandLineArgs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程并发concurrent/1.使用Thread进行基础的子线程开启.py" beforeDir="false" afterPath="$PROJECT_DIR$/多线程并发concurrent/1.使用Thread进行基础的子线程开启.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streamlit研究/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/streamlit研究/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/抽象类型和抽象方法/.README.md" beforeDir="false" afterPath="$PROJECT_DIR$/抽象类型和抽象方法/.README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/notinmood/Study.Python.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/notinmood/Study.PY.git&quot;,
     &quot;accountId&quot;: &quot;64528719-4961-4a2e-9edb-6342ac4a5143&quot;
   }
 }</component>
@@ -70,14 +71,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.0.type方法的应用.executor": "Run",
     "Python.0.使用内置的toml模块.executor": "Run",
     "Python.01.Path类.executor": "Run",
     "Python.01.入门.executor": "Run",
     "Python.01.读取.executor": "Run",
+    "Python.01.迭代器入门.executor": "Run",
+    "Python.02.迭代器和可迭代对象（比如列表）的不同.executor": "Run",
     "Python.1.使用Thread进行基础的子线程开启.executor": "Run",
     "Python.1.拉平多层嵌套的ifelse.executor": "Run",
     "Python.1.排序算法测试.executor": "Run",
+    "Python.1.默认情形下type是class的元类.executor": "Run",
+    "Python.2.开发人员可以通过关键字metaclass为目标类指定特定的元类.executor": "Run",
+    "Python.3.开发人员可以通过继承type自定义元类.executor": "Run",
     "Python.index (1).executor": "Run",
+    "Python.index (2).executor": "Run",
+    "Python.index (3).executor": "Run",
     "Python.index.executor": "Run",
     "Python.range的取值范围研究.executor": "Run",
     "Python.using.executor": "Run",
@@ -87,7 +96,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/myworkspace/Python.Study/语言技巧",
+    "last_opened_file_path": "E:/myworkspace/Study.PY/元类metaclass",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -95,18 +104,21 @@
     "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "fileTemplates",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\myworkspace\Study.PY\元类metaclass" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\myworkspace\Python.Study\语言技巧" />
       <recent name="E:\myworkspace\Python.Study\VersionManage" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.index (1)">
-    <configuration name="字符串分割" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.0.type方法的应用-2.创建数据类型">
+    <configuration name="0.type方法的应用-1.获取目标数据的类型" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python.Study" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,12 +127,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/00.TEMP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/元类metaclass" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00.TEMP/字符串分割.py" />
+      <option name="SCRIPT_NAME" value="E:\myworkspace\Study.PY\元类metaclass\0.type方法的应用-1.获取目标数据的类型.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1.排序算法测试" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0.type方法的应用-2.创建数据类型" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python.Study" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,12 +150,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Misc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/元类metaclass" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Misc/1.排序算法测试.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/元类metaclass/0.type方法的应用-2.创建数据类型.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.使用卫语句拉平多层嵌套的ifelse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1.默认情形下type是class的元类" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python.Study" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,12 +173,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/00优秀实践" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/元类metaclass" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\myworkspace\Python.Study\00优秀实践\2.使用卫语句拉平多层嵌套的ifelse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/元类metaclass/1.默认情形下type是class的元类.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,7 +187,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="index (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2.开发人员可以通过关键字metaclass为目标类指定特定的元类" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python.Study" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,12 +196,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/拼音转换" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/元类metaclass" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/拼音转换/index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/元类metaclass/2.开发人员可以通过关键字metaclass为目标类指定特定的元类.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3.开发人员可以通过继承type自定义元类" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python.Study" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,12 +219,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/抽象类型和抽象方法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/元类metaclass" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\myworkspace\Python.Study\抽象类型和抽象方法\index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/元类metaclass/3.开发人员可以通过继承type自定义元类.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,19 +235,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.index (1)" />
-        <item itemvalue="Python.index" />
-        <item itemvalue="Python.字符串分割" />
-        <item itemvalue="Python.2.使用卫语句拉平多层嵌套的ifelse" />
-        <item itemvalue="Python.1.排序算法测试" />
+        <item itemvalue="Python.0.type方法的应用-2.创建数据类型" />
+        <item itemvalue="Python.0.type方法的应用-1.获取目标数据的类型" />
+        <item itemvalue="Python.3.开发人员可以通过继承type自定义元类" />
+        <item itemvalue="Python.2.开发人员可以通过关键字metaclass为目标类指定特定的元类" />
+        <item itemvalue="Python.1.默认情形下type是class的元类" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
-        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
       </set>
     </attachedChunks>
   </component>
@@ -283,6 +295,11 @@
       <workItem from="1714640367860" duration="2866000" />
       <workItem from="1714798722963" duration="1738000" />
       <workItem from="1715068509635" duration="1044000" />
+      <workItem from="1716598600728" duration="4038000" />
+      <workItem from="1716683947006" duration="3258000" />
+      <workItem from="1717840533541" duration="1247000" />
+      <workItem from="1718412633856" duration="4328000" />
+      <workItem from="1719272249557" duration="14631000" />
     </task>
     <task id="LOCAL-00001" summary="chore: 改为使用poetry管理项目">
       <option name="closed" value="true" />
@@ -448,16 +465,27 @@
     <option name="LAST_COMMIT_MESSAGE" value="feat: 添加优秀实践" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Study_PY$index__2_.coverage" NAME="index (2) 覆盖结果" MODIFIED="1716599635214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/streamlit研究" />
     <SUITE FILE_PATH="coverage/Python_Study$0_toml.coverage" NAME="0.使用内置的toml模块 覆盖结果" MODIFIED="1711846508425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/各种格式文件的读写操作/TOML操作" />
+    <SUITE FILE_PATH="coverage/Study_PY$index__3_.coverage" NAME="index (3) 覆盖结果" MODIFIED="1716601677208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stream功能研究" />
+    <SUITE FILE_PATH="coverage/Study_PY$index.coverage" NAME="index 覆盖结果" MODIFIED="1718432909928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ULID使用" />
+    <SUITE FILE_PATH="coverage/Study_PY$01_.coverage" NAME="01.迭代器入门 覆盖结果" MODIFIED="1716685703358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/F1.2.生成器和迭代器、可迭代对象" />
+    <SUITE FILE_PATH="coverage/Study_PY$2_metaclass.coverage" NAME="2.开发人员可以通过关键字metaclass为目标类指定特定的元类 覆盖结果" MODIFIED="1719362137183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/元类metaclass" />
+    <SUITE FILE_PATH="coverage/Python_Study$1_ifelse.coverage" NAME="1.拉平多层嵌套的ifelse 覆盖结果" MODIFIED="1713882854620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00优秀实践" />
+    <SUITE FILE_PATH="coverage/Python_Study$01_Path.coverage" NAME="01.Path类 覆盖结果" MODIFIED="1712643710048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/优秀的内置类库/Path库" />
+    <SUITE FILE_PATH="coverage/Python_Study$1_Thread.coverage" NAME="1.使用Thread进行基础的子线程开启 覆盖结果" MODIFIED="1714002939876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程并发concurrent" />
+    <SUITE FILE_PATH="coverage/Study_PY$index__1_.coverage" NAME="index (1) 覆盖结果" MODIFIED="1716599439932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/拼音转换" />
+    <SUITE FILE_PATH="coverage/Study_PY$0_type.coverage" NAME="0.type方法的应用 覆盖结果" MODIFIED="1719363147760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/元类metaclass" />
+    <SUITE FILE_PATH="coverage/Python_Study$01_.coverage" NAME="01.入门 覆盖结果" MODIFIED="1713831566166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyAutoGUID.Study" />
+    <SUITE FILE_PATH="coverage/Study_PY$.coverage" NAME="字符串分割 覆盖结果" MODIFIED="1716599677392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00.TEMP" />
+    <SUITE FILE_PATH="coverage/Study_PY$1_typeclass.coverage" NAME="1.默认情形下type是class的元类 覆盖结果" MODIFIED="1719312059120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/元类metaclass" />
     <SUITE FILE_PATH="coverage/Python_Study$using.coverage" NAME="using 覆盖结果" MODIFIED="1713868729412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/抽象类型和抽象方法" />
     <SUITE FILE_PATH="coverage/Python_Study$index__1_.coverage" NAME="index (1) 覆盖结果" MODIFIED="1715069434892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/拼音转换" />
-    <SUITE FILE_PATH="coverage/Python_Study$1_ifelse.coverage" NAME="1.拉平多层嵌套的ifelse 覆盖结果" MODIFIED="1713882854620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00优秀实践" />
+    <SUITE FILE_PATH="coverage/Study_PY$3_type.coverage" NAME="3.开发人员可以通过继承type自定义元类 覆盖结果" MODIFIED="1719363001726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/元类metaclass" />
     <SUITE FILE_PATH="coverage/Python_Study$range.coverage" NAME="range的取值范围研究 覆盖结果" MODIFIED="1712564392900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Misc" />
-    <SUITE FILE_PATH="coverage/Python_Study$01_Path.coverage" NAME="01.Path类 覆盖结果" MODIFIED="1712643710048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/优秀的内置类库/Path库" />
     <SUITE FILE_PATH="coverage/Python_Study$.coverage" NAME="字符串分割 覆盖结果" MODIFIED="1714267190741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00.TEMP" />
-    <SUITE FILE_PATH="coverage/Python_Study$1_Thread.coverage" NAME="1.使用Thread进行基础的子线程开启 覆盖结果" MODIFIED="1714002939876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程并发concurrent" />
+    <SUITE FILE_PATH="coverage/Study_PY$02_.coverage" NAME="02.迭代器和可迭代对象（比如列表）的不同 覆盖结果" MODIFIED="1716685456399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/F1.2.生成器和迭代器、可迭代对象" />
     <SUITE FILE_PATH="coverage/Python_Study$index.coverage" NAME="index 覆盖结果" MODIFIED="1711703928594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/各种格式文件的读写操作/TOML操作" />
     <SUITE FILE_PATH="coverage/Python_Study$1_.coverage" NAME="1.排序算法测试 覆盖结果" MODIFIED="1712564779056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Misc" />
-    <SUITE FILE_PATH="coverage/Python_Study$01_.coverage" NAME="01.入门 覆盖结果" MODIFIED="1713831566166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyAutoGUID.Study" />
   </component>
 </project>
