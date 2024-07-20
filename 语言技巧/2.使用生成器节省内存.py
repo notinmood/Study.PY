@@ -15,20 +15,22 @@ import sys
 构建生成器到时候，并不为其立即赋值(list等数据类型是立即赋值的)；只有当调用到时候，才赋值和返回当前值。
 3. 小括号本身是元组的表述字符，但此处小括号被用作生成器，所以如果要使用元组推导式就需要加入关键字tuple和小括号，即tuple()。
 """
-my_list = [i for i in range(10000)]  # list 列表推导式
-my_gen = (i for i in range(10000))  # 生成器表达式
-my_tuple = tuple(i for i in range(10000))  # tuple元组推导式
+my_list = [i for i in range(100)]  # list 列表推导式
+my_tuple = tuple(i for i in range(100))  # tuple元组推导式
+my_gen = (i for i in range(100))  # 生成器表达式
 
-print(sys.getsizeof(my_list), 'bytes')  # 87616 bytes
-print(sys.getsizeof(my_gen), 'bytes')  # 128 bytes
+print(sys.getsizeof(my_list), 'bytes')  # 920 bytes
+print(sys.getsizeof(my_tuple), 'bytes')  # 840 bytes
+print(sys.getsizeof(my_gen), 'bytes')  # 192 bytes
 
-print(my_list)
-print(my_gen)
+print("my_list: ", my_list)
+print("my_tuple: ", my_tuple)
+print("my_gen: ", my_gen)
 
 # +--------------------------------------------------------------------------
 # |::说明·| 上面的 my_gen 里面并没有真实的数据；下面调用代码的时候，才会赋值和使用值。
 # +--------------------------------------------------------------------------
-
+print("my_gen内具体的数据为：")
 for key in my_gen:
     print(key)
 pass

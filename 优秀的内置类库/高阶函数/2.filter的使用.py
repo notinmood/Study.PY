@@ -14,5 +14,6 @@
 # +--------------------------------------------------------------------------
 if __name__ == '__main__':
     result = filter(lambda x: x > 0, [1, -2, 3, -4, 5, -6])
-    print(result)  # <filter object at 0x000001FF1D415840>
+    print(result)  # <filter object at 0x...>
     print(list(result))  # [1, 3, 5]
+

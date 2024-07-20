@@ -7,7 +7,7 @@
  * @company: HiLand & RainyTop
 """
 if __name__ == '__main__':
-    # 1. 创建仅有一个元素的元组对象
+    # 1. 创建仅有一个元素的元组对象（注意：唯一的元素后要加一个逗号）
     t1 = ("qingdao",)
     print(t1)
 

@@ -11,3 +11,5 @@ from functools import reduce
 if __name__ == '__main__':
     result = reduce(lambda x, y: x + y, [1, 2, 3, 4, 5])
     print(result)
+    # --output---
+    # 15

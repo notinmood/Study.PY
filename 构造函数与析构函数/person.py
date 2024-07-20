@@ -23,6 +23,7 @@ class Person:
     def __init__(self):
         """
         这是一个初始化方法，用来初始化对象
+        :rtype: object
         """
         print('__init__里面，我可以打扮的漂漂亮亮！')
 
@@ -48,13 +49,13 @@ class Person:
         print('__exit__里面，我的事务处理完了！')
         # self.__del__() # 不用手动调用析构函数，因为__exit__会被系统自动调用
 
-    # noinspection PyMethodMayBeStatic
     def eat(self) -> None:
         """
 
         :rtype: object
         :return:
         """
+        _self = self
         print('》》》我正在吃饭ing！')
 
     pass

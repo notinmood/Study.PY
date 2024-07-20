@@ -7,6 +7,11 @@
  * @company: HiLand & RainyTop
 """
 
-
 if __name__ == '__main__':
-    map()
+    my_arr = [1, 2, 3, 4, 5]
+    result = map(lambda x: x * x, my_arr)
+
+    print(result)  # 可以看到map方法返回的是一个迭代器
+    for _index, _item in enumerate(result):
+        print(f"第{_index}个元素为：{_item}")
+    pass
