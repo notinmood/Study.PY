@@ -7,6 +7,7 @@
  * @company: HiLand & RainyTop
 """
 from itertools import product
+
 # +--------------------------------------------------------------------------
 # |::::TIPS::::| 本代码的使用说明
 # ---------------------------------------------------------------------------
@@ -34,4 +35,10 @@ if __name__ == '__main__':
     for i, j, k in product(list1, list2, list3):
         print(f"{i}*{j}*{k}={i * j * k}")
         print(f"{i}+{j}+{k}={i + j + k}")
+    pass
+
+    print("=" * 50)
+    # 直接使用product()函数输出笛卡尔积，可以看到结果是元组的形式
+    for item in product(list1, list2, list3):
+        print(item)
     pass

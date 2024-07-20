@@ -34,11 +34,11 @@ class Student(object):
     @staticmethod
     def say_hello():
         print("I can say hi to you!")
+
     pass
 
     @classmethod
     def say_hi(cls):
         cls.say_hello()
+
     pass
-
-

@@ -11,4 +11,4 @@ from 构造函数与析构函数.person import Person
 """
 调用类型的静态方法,不会触发类型的构造函数和析构函数
 """
-Person.some_thing()
+Person.do_something()

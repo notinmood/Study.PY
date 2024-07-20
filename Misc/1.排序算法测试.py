@@ -26,8 +26,8 @@ def bubble_sort(arr):
 
 
 if __name__ == '__main__':
-    arr = [random.randint(0, 100) for _ in range(10000)]
+    _arr = [random.randint(0, 100) for _ in range(10000)]
     start_time = time.time()
-    bubble_sort(arr)
+    bubble_sort(_arr)
     end_time = time.time()
     print(f"Bubble sort running time: {end_time - start_time} seconds")
