@@ -6,7 +6,6 @@
  * @creator: ShanDong Xiedali
  * @company: HiLand & RainyTop
 """
-from itertools import product
 
 # +--------------------------------------------------------------------------
 # |::::TIPS::::| 本代码的使用说明
@@ -15,9 +14,9 @@ from itertools import product
 # +--------------------------------------------------------------------------
 
 if __name__ == '__main__':
-    list1 = range(1, 4)
-    list2 = range(4, 7)
-    list3 = range(7, 9)
+    list1 = [1, 2, 3, ]  # 假设有三个元素 range(1, 4)
+    list2 = [4, 5, 6, ]  # 假设有三个元素 range(4, 7)
+    list3 = [7, 8, ]  # range(7, 9)
 
     # 注意缝合后的结果元组的个数与各个列表的元素个数最少的相同
     for i, j, k in zip(list1, list2, list3):
