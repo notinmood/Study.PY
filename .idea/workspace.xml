@@ -4,22 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1059a421-b14d-4fb7-b1f2-2acd51890bd6" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/优秀的内置类库/sort和sorted排序研究/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/异步与并发/00.README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/异步与并发/25.ProcessPoolExecutor进程池技术.py" afterDir="false" />
+    <list default="true" id="1059a421-b14d-4fb7-b1f2-2acd51890bd6" name="更改" comment="feat: MISC">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stream功能研究/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Stream功能研究/00.README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/F1.1.生成器和协程研究/OK.await使用.3.等待协程任务-简化.py" beforeDir="false" afterPath="$PROJECT_DIR$/F1.1.生成器和协程研究/OK.await使用.3.等待协程任务-简化.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/F1.1.生成器和协程研究/Using.2.使用生成器创建的经典协程在生产者和消费者之间来回跳转的例子.py" beforeDir="false" afterPath="$PROJECT_DIR$/F1.1.生成器和协程研究/Using.2.使用生成器创建的经典协程在生产者和消费者之间来回跳转的例子.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/F1.1.生成器和协程研究/op.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/优秀的内置类库/Sort排序研究/index.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程并发concurrent/.README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程并发concurrent/1.使用Thread进行基础的子线程开启.py" beforeDir="false" afterPath="$PROJECT_DIR$/异步与并发/10.Thread进行基础的子线程开启.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程并发concurrent/2.使用ThreadPoolExecutor线程池技术管理多个子线程.py" beforeDir="false" afterPath="$PROJECT_DIR$/异步与并发/20.0.ThreadPoolExecutor线程池技术.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程并发concurrent/3.线程提交后返回任务句柄.py" beforeDir="false" afterPath="$PROJECT_DIR$/异步与并发/20.1.ThreadPoolExecutor线程提交后返回任务句柄.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程并发concurrent/4.使用as_completed查询任务完成情况.py" beforeDir="false" afterPath="$PROJECT_DIR$/异步与并发/20.2.ThreadPoolExecutor使用as_completed查询任务完成情况.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程并发concurrent/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/异步与并发/index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法使用与研究/1.遍历求和/1.精度问题.py" beforeDir="false" afterPath="$PROJECT_DIR$/算法使用与研究/1.遍历求和/00.精度问题说明.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法使用与研究/1.遍历求和/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/算法使用与研究/1.遍历求和/index.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +84,7 @@
     "Python.3.开发人员可以通过继承type自定义元类.executor": "Run",
     "Python.4.for循环的技巧2.executor": "Run",
     "Python.4.for循环的技巧3.executor": "Run",
+    "Python.Using.2.使用生成器创建的经典协程在生产者和消费者之间来回跳转的例子.executor": "Run",
     "Python.index (1).executor": "Run",
     "Python.index (2).executor": "Run",
     "Python.index (3).executor": "Run",
@@ -137,7 +128,7 @@
       <recent name="E:\myworkspace\Python.Study\VersionManage" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.index (1)">
+  <component name="RunManager" selected="Python.Using.2.使用生成器创建的经典协程在生产者和消费者之间来回跳转的例子">
     <configuration name="10.Thread进行基础的子线程开启" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python.Study" />
       <option name="ENV_FILES" value="" />
@@ -184,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.for循环的技巧3.多头并进" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Using.2.使用生成器创建的经典协程在生产者和消费者之间来回跳转的例子" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python.Study" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,12 +184,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/语言技巧" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/F1.1.生成器和协程研究" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\myworkspace\Study.PY\语言技巧\4.for循环的技巧3.多头并进.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/F1.1.生成器和协程研究/Using.2.使用生成器创建的经典协程在生产者和消费者之间来回跳转的例子.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Using.2.使用生成器创建的经典协程在生产者和消费者之间来回跳转的例子" />
         <item itemvalue="Python.index (1)" />
         <item itemvalue="Python.10.Thread进行基础的子线程开启" />
         <item itemvalue="Python.index" />
         <item itemvalue="Python.4.for循环的技巧2.嵌套循环(笛卡尔积)" />
-        <item itemvalue="Python.4.for循环的技巧3.多头并进" />
       </list>
     </recent_temporary>
   </component>
@@ -334,7 +325,7 @@
       <workItem from="1722248691625" duration="1010000" />
       <workItem from="1722688739278" duration="110000" />
       <workItem from="1722689106918" duration="238000" />
-      <workItem from="1722750142127" duration="11942000" />
+      <workItem from="1722750142127" duration="14440000" />
     </task>
     <task id="LOCAL-00001" summary="chore: 改为使用poetry管理项目">
       <option name="closed" value="true" />
@@ -512,7 +503,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722249070463</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="feat: MISC">
+      <option name="closed" value="true" />
+      <created>1722779194303</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1722779194303</updated>
+    </task>
+    <task id="LOCAL-00024" summary="feat: MISC">
+      <option name="closed" value="true" />
+      <created>1722779214161</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1722779214161</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -577,6 +584,7 @@
     <SUITE FILE_PATH="coverage/Python_Study$range.coverage" NAME="range的取值范围研究 覆盖结果" MODIFIED="1712564392900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Misc" />
     <SUITE FILE_PATH="coverage/Study_PY$1_index.coverage" NAME="1.index 覆盖结果" MODIFIED="1721262599274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法使用与研究/1.遍历求和" />
     <SUITE FILE_PATH="coverage/Study_PY$10_Thread.coverage" NAME="10.Thread进行基础的子线程开启 覆盖结果" MODIFIED="1722760134988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/异步与并发" />
+    <SUITE FILE_PATH="coverage/Study_PY$Using_2_.coverage" NAME="Using.2.使用生成器创建的经典协程在生产者和消费者之间来回跳转的例子 覆盖结果" MODIFIED="1722781758708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/F1.1.生成器和协程研究" />
     <SUITE FILE_PATH="coverage/Python_Study$1_.coverage" NAME="1.排序算法测试 覆盖结果" MODIFIED="1712564779056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Misc" />
     <SUITE FILE_PATH="coverage/Study_PY$2_filter.coverage" NAME="2.filter的使用 覆盖结果" MODIFIED="1721462814765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/优秀的内置类库/高阶函数" />
   </component>

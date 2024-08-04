@@ -10,14 +10,14 @@ import asyncio
 import time
 
 
-async def say_after(delay, what):
+async def say_after(delay_seconds: int, what: str):
     """
 
-    :param delay:
+    :param delay_seconds:
     :param what:
     :return:
     """
-    await asyncio.sleep(delay)
+    await asyncio.sleep(delay_seconds)
     print(what)
 
 
