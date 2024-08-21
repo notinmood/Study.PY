@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "Python.Study"
-version = "0.1.29"
+version = "0.1.30"
 description = ""
 authors = ["解大劦 <develope@163.com>"]
 readme = "README.md"
@@ -15,6 +15,7 @@ xpinyin = "^0.7.6"
 superstream = "^0.2.6"
 streamlit = "^1.35.0"
 ulid-py = "^1.1.0"
+pypattyrn = "^1.2"
 
 [tool.poetry.group.dev.dependencies]
 pylint = "^3.1.0"
