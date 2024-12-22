@@ -7,8 +7,6 @@
  * @company: HiLand & RainyTop
 """
 
-# TODO:xiedali@2024/01/12 应该把Base64的研究内容从其他目录整合过来
-
 if __name__ == '__main__':
     # 1. 字节串的定义
     my_bytes = b"abcd"

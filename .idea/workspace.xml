@@ -4,14 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1059a421-b14d-4fb7-b1f2-2acd51890bd6" name="更改" comment="更改">
-      <change afterPath="$PROJECT_DIR$/异步与多线程/50.asyncio的使用README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/异步与多线程/50.asyncio的使用流程.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/异步与多线程/51.asyncio中的gather和as_completed的区别.py" afterDir="false" />
+    <list default="true" id="1059a421-b14d-4fb7-b1f2-2acd51890bd6" name="更改" comment="feat: 添加asyncio的使用流程研究">
+      <change afterPath="$PROJECT_DIR$/暴力破解Wifi/1.生成字典.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块的相对导入与绝对导入/00.readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块的相对导入与绝对导入/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块的相对导入与绝对导入/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块的相对导入与绝对导入/moduleA/too.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块的相对导入与绝对导入/moduleB/boo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块的相对导入与绝对导入/packageA/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块的相对导入与绝对导入/packageA/foo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块的相对导入与绝对导入/packageB/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块的相对导入与绝对导入/packageB/bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块的相对导入与绝对导入/packageB/tao.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/GitCommitMessageStorage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GitCommitMessageStorage.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.Study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.Study.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPipLibUsingStudy/usingBL.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyPipLibUsingStudy/usingBL.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字符串和字节串的使用研究/6.字节串的研究.py" beforeDir="false" afterPath="$PROJECT_DIR$/字符串和字节串的使用研究/6.字节串的研究.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/异步与多线程/50.asyncio的使用README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/异步与多线程/50.asyncio的使用README.MD" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +32,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Class" />
-        <option value="README.md" />
         <option value="Python Script" />
+        <option value="README.md" />
       </list>
     </option>
   </component>
@@ -74,6 +84,7 @@
     "Python.1.实例调用.executor": "Run",
     "Python.1.拉平多层嵌套的ifelse.executor": "Run",
     "Python.1.排序算法测试.executor": "Run",
+    "Python.1.生成字典.executor": "Run",
     "Python.1.默认情形下type是class的元类.executor": "Run",
     "Python.10.Thread进行基础的子线程开启.executor": "Run",
     "Python.15.海象运算符.executor": "Run",
@@ -89,6 +100,7 @@
     "Python.5.partial偏函数的使用.executor": "Run",
     "Python.50.asyncio的使用流程.executor": "Run",
     "Python.51.asyncio中的gather和as_completed的区别.executor": "Run",
+    "Python.6.字节串的研究.executor": "Run",
     "Python.Using.2.使用生成器创建的经典协程在生产者和消费者之间来回跳转的例子.executor": "Run",
     "Python.index (1).executor": "Run",
     "Python.index (2).executor": "Run",
@@ -97,15 +109,18 @@
     "Python.iterator_study.executor": "Run",
     "Python.range的取值范围研究.executor": "Run",
     "Python.using.executor": "Run",
+    "Python.usingBL.executor": "Run",
     "Python.yield_from.executor": "Run",
     "Python.字符串分割.executor": "Run",
     "Python.高精度除法.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/myworkspace/Study.PY",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/myworkspace/Study.PY/模块的相对导入/moduleB",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -113,7 +128,7 @@
     "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "plugins.gitcommitmessagehelper",
+    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -125,6 +140,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\myworkspace\Study.PY\模块的相对导入\moduleB" />
+      <recent name="E:\myworkspace\Study.PY\模块的相对导入\moduleA" />
       <recent name="E:\myworkspace\Study.PY\语言技巧" />
       <recent name="E:\myworkspace\Study.PY\元类metaclass与type关键字" />
       <recent name="E:\myworkspace\Study.PY\元类metaclass" />
@@ -136,7 +153,7 @@
       <recent name="E:\myworkspace\Python.Study\VersionManage" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.51.asyncio中的gather和as_completed的区别">
+  <component name="RunManager" selected="Python.index (2)">
     <configuration name="高精度除法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python.Study" />
       <option name="ENV_FILES" value="" />
@@ -160,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="50.asyncio的使用流程" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1.生成字典" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python.Study" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,12 +186,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/异步与多线程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/暴力破解Wifi" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/异步与多线程/50.asyncio的使用流程.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/暴力破解Wifi/1.生成字典.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,7 +200,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="51.asyncio中的gather和as_completed的区别" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="index (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python.Study" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,12 +209,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/异步与多线程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/模块的相对导入" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/异步与多线程/51.asyncio中的gather和as_completed的区别.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/模块的相对导入/index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,7 +223,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5.partial偏函数的使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="index (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python.Study" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,12 +232,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/优秀的内置类库/高阶函数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/模块的相对导入与绝对导入" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/优秀的内置类库/高阶函数/5.partial偏函数的使用.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/模块的相对导入与绝对导入/index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,7 +246,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="usingBL" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python.Study" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -238,12 +255,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/除法研究" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyPipLibUsingStudy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/除法研究/index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyPipLibUsingStudy/usingBL.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,19 +271,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.51.asyncio中的gather和as_completed的区别" />
-        <item itemvalue="Python.50.asyncio的使用流程" />
-        <item itemvalue="Python.高精度除法" />
-        <item itemvalue="Python.index" />
-        <item itemvalue="Python.5.partial偏函数的使用" />
+        <item itemvalue="Python.index (2)" />
+        <item itemvalue="Python.index (1)" />
+        <item itemvalue="Python.1.生成字典" />
+        <item itemvalue="Python.usingBL" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.153" />
-        <option value="bundled-python-sdk-464836ebc622-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.153" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
+        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
@@ -337,7 +353,21 @@
       <workItem from="1724238375897" duration="1990000" />
       <workItem from="1724746354898" duration="1053000" />
       <workItem from="1727749132400" duration="808000" />
-      <workItem from="1729127898470" duration="4481000" />
+      <workItem from="1729127898470" duration="4598000" />
+      <workItem from="1730418288548" duration="466000" />
+      <workItem from="1732879384201" duration="817000" />
+      <workItem from="1733196978940" duration="49000" />
+      <workItem from="1733366428378" duration="4905000" />
+      <workItem from="1733455762775" duration="1318000" />
+      <workItem from="1733459719471" duration="1527000" />
+      <workItem from="1733473289099" duration="216000" />
+      <workItem from="1733473612906" duration="96000" />
+      <workItem from="1733476539470" duration="202000" />
+      <workItem from="1733479061762" duration="697000" />
+      <workItem from="1734696702375" duration="688000" />
+      <workItem from="1734782669188" duration="3101000" />
+      <workItem from="1734795820552" duration="2210000" />
+      <workItem from="1734865740062" duration="4695000" />
     </task>
     <task id="LOCAL-00001" summary="chore: 改为使用poetry管理项目">
       <option name="closed" value="true" />
@@ -555,7 +585,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727749944932</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="feat: 添加asyncio的使用流程研究">
+      <option name="closed" value="true" />
+      <created>1729132451822</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1729132451822</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -585,49 +623,52 @@
     <MESSAGE value="feat: 整理生成器和协程" />
     <MESSAGE value="feat: MISC" />
     <MESSAGE value="更改" />
-    <option name="LAST_COMMIT_MESSAGE" value="更改" />
+    <MESSAGE value="feat: 添加asyncio的使用流程研究" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 添加asyncio的使用流程研究" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Study_PY$iterator_study.coverage" NAME="iterator_study 覆盖结果" MODIFIED="1720086814084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Misc" />
-    <SUITE FILE_PATH="coverage/Study_PY$.coverage" NAME="高精度除法 覆盖结果" MODIFIED="1724240210052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/除法研究" />
-    <SUITE FILE_PATH="coverage/Study_PY$1_.coverage" NAME="1.实例调用 覆盖结果" MODIFIED="1721452045744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/构造函数与析构函数" />
-    <SUITE FILE_PATH="coverage/Study_PY$1.coverage" NAME="1 覆盖结果" MODIFIED="1719536614276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/泛型的研究与使用" />
-    <SUITE FILE_PATH="coverage/Python_Study$range.coverage" NAME="range的取值范围研究 覆盖结果" MODIFIED="1712564392900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Misc" />
-    <SUITE FILE_PATH="coverage/Study_PY$index__2_.coverage" NAME="index (2) 覆盖结果" MODIFIED="1716599635214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/streamlit研究" />
-    <SUITE FILE_PATH="coverage/Study_PY$0_type.coverage" NAME="0.type方法的应用 覆盖结果" MODIFIED="1719363147760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/元类metaclass" />
-    <SUITE FILE_PATH="coverage/Python_Study$1_Thread.coverage" NAME="1.使用Thread进行基础的子线程开启 覆盖结果" MODIFIED="1714002939876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程并发concurrent" />
-    <SUITE FILE_PATH="coverage/Python_Study$index.coverage" NAME="index 覆盖结果" MODIFIED="1711703928594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/各种格式文件的读写操作/TOML操作" />
     <SUITE FILE_PATH="coverage/Python_Study$01_Path.coverage" NAME="01.Path类 覆盖结果" MODIFIED="1712643710048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/优秀的内置类库/Path库" />
-    <SUITE FILE_PATH="coverage/Study_PY$3_with.coverage" NAME="3.with方式调用 覆盖结果" MODIFIED="1721452677015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/构造函数与析构函数" />
-    <SUITE FILE_PATH="coverage/Python_Study$1_.coverage" NAME="1.排序算法测试 覆盖结果" MODIFIED="1712564779056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Misc" />
-    <SUITE FILE_PATH="coverage/Python_Study$using.coverage" NAME="using 覆盖结果" MODIFIED="1713868729412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/抽象类型和抽象方法" />
-    <SUITE FILE_PATH="coverage/Python_Study$01_.coverage" NAME="01.入门 覆盖结果" MODIFIED="1713831566166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyAutoGUID.Study" />
     <SUITE FILE_PATH="coverage/Study_PY$01_.coverage" NAME="01.迭代器入门 覆盖结果" MODIFIED="1716685703358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/F1.2.生成器和迭代器、可迭代对象" />
-    <SUITE FILE_PATH="coverage/Study_PY$2_metaclass.coverage" NAME="2.开发人员可以通过关键字metaclass为目标类指定特定的元类 覆盖结果" MODIFIED="1719362137183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/元类metaclass" />
+    <SUITE FILE_PATH="coverage/Study_PY$51_asynciogatheras_completed.coverage" NAME="51.asyncio中的gather和as_completed的区别 Coverage Results" MODIFIED="1729131949963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/异步与多线程" />
     <SUITE FILE_PATH="coverage/Study_PY$10_Thread.coverage" NAME="10.Thread进行基础的子线程开启 覆盖结果" MODIFIED="1722760134988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/异步与并发" />
-    <SUITE FILE_PATH="coverage/Study_PY$3_reduce.coverage" NAME="3.reduce的使用 覆盖结果" MODIFIED="1721464639633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/优秀的内置类库/高阶函数" />
-    <SUITE FILE_PATH="coverage/Study_PY$yield_from.coverage" NAME="yield_from 覆盖结果" MODIFIED="1722781992998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/F1.1.生成器和协程研究" />
-    <SUITE FILE_PATH="coverage/Study_PY$4_for3.coverage" NAME="4.for循环的技巧3 覆盖结果" MODIFIED="1721953295988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/语言技巧" />
-    <SUITE FILE_PATH="coverage/Study_PY$index__1_.coverage" NAME="index (1) 覆盖结果" MODIFIED="1722777895739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/优秀的内置类库/Sort排序研究" />
-    <SUITE FILE_PATH="coverage/Study_PY$0_type_2_.coverage" NAME="0.type方法的应用-2.创建数据类型 覆盖结果" MODIFIED="1719363709859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/元类metaclass" />
-    <SUITE FILE_PATH="coverage/Python_Study$index__1_.coverage" NAME="index (1) 覆盖结果" MODIFIED="1715069434892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/拼音转换" />
+    <SUITE FILE_PATH="coverage/Python_Study$.coverage" NAME="字符串分割 覆盖结果" MODIFIED="1714267190741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00.TEMP" />
+    <SUITE FILE_PATH="coverage/Study_PY$index.coverage" NAME="index 覆盖结果" MODIFIED="1724239980611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/除法研究" />
     <SUITE FILE_PATH="coverage/Study_PY$1_index.coverage" NAME="1.index 覆盖结果" MODIFIED="1721262599274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法使用与研究/1.遍历求和" />
+    <SUITE FILE_PATH="coverage/Python_Study$1_.coverage" NAME="1.排序算法测试 覆盖结果" MODIFIED="1712564779056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Misc" />
+    <SUITE FILE_PATH="coverage/Python_Study$index.coverage" NAME="index 覆盖结果" MODIFIED="1711703928594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/各种格式文件的读写操作/TOML操作" />
+    <SUITE FILE_PATH="coverage/Study_PY$4_for2.coverage" NAME="4.for循环的技巧2 覆盖结果" MODIFIED="1721954868275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/语言技巧" />
+    <SUITE FILE_PATH="coverage/Python_Study$using.coverage" NAME="using 覆盖结果" MODIFIED="1713868729412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/抽象类型和抽象方法" />
+    <SUITE FILE_PATH="coverage/Study_PY$0_type_2_.coverage" NAME="0.type方法的应用-2.创建数据类型 覆盖结果" MODIFIED="1719363709859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/元类metaclass" />
+    <SUITE FILE_PATH="coverage/Study_PY$1.coverage" NAME="1 覆盖结果" MODIFIED="1719536614276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/泛型的研究与使用" />
+    <SUITE FILE_PATH="coverage/Study_PY$2_.coverage" NAME="2.使用生成器节省内存 覆盖结果" MODIFIED="1721460682458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/语言技巧" />
+    <SUITE FILE_PATH="coverage/Study_PY$3_type.coverage" NAME="3.开发人员可以通过继承type自定义元类 覆盖结果" MODIFIED="1719363001726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/元类metaclass" />
+    <SUITE FILE_PATH="coverage/Study_PY$2_metaclass.coverage" NAME="2.开发人员可以通过关键字metaclass为目标类指定特定的元类 覆盖结果" MODIFIED="1719362137183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/元类metaclass" />
+    <SUITE FILE_PATH="coverage/Study_PY$yield_from.coverage" NAME="yield_from 覆盖结果" MODIFIED="1722781992998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/F1.1.生成器和协程研究" />
+    <SUITE FILE_PATH="coverage/Study_PY$Using_2_.coverage" NAME="Using.2.使用生成器创建的经典协程在生产者和消费者之间来回跳转的例子 覆盖结果" MODIFIED="1722781776705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/F1.1.生成器和协程研究" />
+    <SUITE FILE_PATH="coverage/Python_Study$1_ifelse.coverage" NAME="1.拉平多层嵌套的ifelse 覆盖结果" MODIFIED="1713882854620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00优秀实践" />
+    <SUITE FILE_PATH="coverage/Study_PY$index__2_.coverage" NAME="index (2) 覆盖结果" MODIFIED="1734876601405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模块的相对导入与绝对导入" />
+    <SUITE FILE_PATH="coverage/Study_PY$usingBL.coverage" NAME="usingBL 覆盖结果" MODIFIED="1734796134336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyPipLibUsingStudy" />
+    <SUITE FILE_PATH="coverage/Study_PY$2_filter.coverage" NAME="2.filter的使用 覆盖结果" MODIFIED="1721462814765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/优秀的内置类库/高阶函数" />
+    <SUITE FILE_PATH="coverage/Study_PY$02_.coverage" NAME="02.迭代器和可迭代对象（比如列表）的不同 覆盖结果" MODIFIED="1716685456399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/F1.2.生成器和迭代器、可迭代对象" />
+    <SUITE FILE_PATH="coverage/Study_PY$6_.coverage" NAME="6.字节串的研究 Coverage Results" MODIFIED="1730418516540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/字符串和字节串的使用研究" />
+    <SUITE FILE_PATH="coverage/Study_PY$15_.coverage" NAME="15.海象运算符 覆盖结果" MODIFIED="1721461640879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/语言技巧" />
+    <SUITE FILE_PATH="coverage/Python_Study$1_Thread.coverage" NAME="1.使用Thread进行基础的子线程开启 覆盖结果" MODIFIED="1714002939876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程并发concurrent" />
+    <SUITE FILE_PATH="coverage/Python_Study$index__1_.coverage" NAME="index (1) 覆盖结果" MODIFIED="1715069434892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/拼音转换" />
+    <SUITE FILE_PATH="coverage/Study_PY$3_with.coverage" NAME="3.with方式调用 覆盖结果" MODIFIED="1721452677015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/构造函数与析构函数" />
     <SUITE FILE_PATH="coverage/Study_PY$5_partial.coverage" NAME="5.partial偏函数的使用 覆盖结果" MODIFIED="1724238711623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/优秀的内置类库/高阶函数" />
     <SUITE FILE_PATH="coverage/Study_PY$1_map.coverage" NAME="1.map的使用 覆盖结果" MODIFIED="1721462713062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/优秀的内置类库/高阶函数" />
     <SUITE FILE_PATH="coverage/Study_PY$50_asyncio.coverage" NAME="50.asyncio的使用流程 Coverage Results" MODIFIED="1729131117214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/异步与多线程" />
-    <SUITE FILE_PATH="coverage/Study_PY$index__3_.coverage" NAME="index (3) 覆盖结果" MODIFIED="1716601677208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stream功能研究" />
-    <SUITE FILE_PATH="coverage/Python_Study$.coverage" NAME="字符串分割 覆盖结果" MODIFIED="1714267190741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00.TEMP" />
-    <SUITE FILE_PATH="coverage/Study_PY$51_asynciogatheras_completed.coverage" NAME="51.asyncio中的gather和as_completed的区别 Coverage Results" MODIFIED="1729131949963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/异步与多线程" />
+    <SUITE FILE_PATH="coverage/Study_PY$.coverage" NAME="高精度除法 覆盖结果" MODIFIED="1724240210052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/除法研究" />
+    <SUITE FILE_PATH="coverage/Study_PY$3_reduce.coverage" NAME="3.reduce的使用 覆盖结果" MODIFIED="1721464639633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/优秀的内置类库/高阶函数" />
     <SUITE FILE_PATH="coverage/Python_Study$0_toml.coverage" NAME="0.使用内置的toml模块 覆盖结果" MODIFIED="1711846508425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/各种格式文件的读写操作/TOML操作" />
-    <SUITE FILE_PATH="coverage/Study_PY$02_.coverage" NAME="02.迭代器和可迭代对象（比如列表）的不同 覆盖结果" MODIFIED="1716685456399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/F1.2.生成器和迭代器、可迭代对象" />
-    <SUITE FILE_PATH="coverage/Study_PY$15_.coverage" NAME="15.海象运算符 覆盖结果" MODIFIED="1721461640879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/语言技巧" />
-    <SUITE FILE_PATH="coverage/Study_PY$Using_2_.coverage" NAME="Using.2.使用生成器创建的经典协程在生产者和消费者之间来回跳转的例子 覆盖结果" MODIFIED="1722781776705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/F1.1.生成器和协程研究" />
-    <SUITE FILE_PATH="coverage/Study_PY$2_filter.coverage" NAME="2.filter的使用 覆盖结果" MODIFIED="1721462814765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/优秀的内置类库/高阶函数" />
-    <SUITE FILE_PATH="coverage/Study_PY$4_for2.coverage" NAME="4.for循环的技巧2 覆盖结果" MODIFIED="1721954868275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/语言技巧" />
+    <SUITE FILE_PATH="coverage/Python_Study$01_.coverage" NAME="01.入门 覆盖结果" MODIFIED="1713831566166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyAutoGUID.Study" />
+    <SUITE FILE_PATH="coverage/Python_Study$range.coverage" NAME="range的取值范围研究 覆盖结果" MODIFIED="1712564392900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Misc" />
+    <SUITE FILE_PATH="coverage/Study_PY$4_for3.coverage" NAME="4.for循环的技巧3 覆盖结果" MODIFIED="1721953295988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/语言技巧" />
+    <SUITE FILE_PATH="coverage/Study_PY$index__1_.coverage" NAME="index (1) 覆盖结果" MODIFIED="1734876526059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模块的相对导入" />
+    <SUITE FILE_PATH="coverage/Study_PY$1_.coverage" NAME="1.生成字典 覆盖结果" MODIFIED="1734796429871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/暴力破解Wifi" />
     <SUITE FILE_PATH="coverage/Study_PY$1_typeclass.coverage" NAME="1.默认情形下type是class的元类 覆盖结果" MODIFIED="1719312059120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/元类metaclass" />
-    <SUITE FILE_PATH="coverage/Study_PY$2_.coverage" NAME="2.使用生成器节省内存 覆盖结果" MODIFIED="1721460682458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/语言技巧" />
-    <SUITE FILE_PATH="coverage/Python_Study$1_ifelse.coverage" NAME="1.拉平多层嵌套的ifelse 覆盖结果" MODIFIED="1713882854620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00优秀实践" />
-    <SUITE FILE_PATH="coverage/Study_PY$index.coverage" NAME="index 覆盖结果" MODIFIED="1724239980611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/除法研究" />
-    <SUITE FILE_PATH="coverage/Study_PY$3_type.coverage" NAME="3.开发人员可以通过继承type自定义元类 覆盖结果" MODIFIED="1719363001726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/元类metaclass" />
+    <SUITE FILE_PATH="coverage/Study_PY$0_type.coverage" NAME="0.type方法的应用 覆盖结果" MODIFIED="1719363147760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/元类metaclass" />
+    <SUITE FILE_PATH="coverage/Study_PY$index__3_.coverage" NAME="index (3) 覆盖结果" MODIFIED="1716601677208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stream功能研究" />
   </component>
 </project>

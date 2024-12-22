@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "Python.Study"
-version = "0.1.32"
+version = "0.1.33"
 description = ""
 authors = ["解大劦 <develope@163.com>"]
 readme = "README.md"
@@ -26,8 +26,8 @@ ruff = "^0.5.2"
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
-## 使用国内的类库镜像源
-#[[tool.poetry.source]]
-#name = "mirrors"
-#url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
-#priority = "default"
+# 使用国内的类库镜像源
+[[tool.poetry.source]]
+name = "mirrors"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
+priority = "primary"
