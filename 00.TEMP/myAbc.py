@@ -8,8 +8,9 @@
 """
 
 
-class Abc(object):
+class MyAbc(object):
     def func_name(self, arg_name: str):
+        _arg_name = arg_name
         _handler = self
 
 
