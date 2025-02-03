@@ -6,8 +6,7 @@
  * @creator: ShanDong Xiedali
  * @company: HiLand & RainyTop
 """
-
-from BasicLibrary.data.stringHelper import StringHelper
+from BasicLibrary.data.stringHelper import StringHelper;
 
 if __name__ == '__main__':
     # 1. 使用index占位符的形式

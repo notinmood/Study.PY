@@ -1,9 +1,9 @@
 from builtins import *
 from functools import cmp_to_key
 
-from hiland.data import ListHelper as lh
-from hiland.io import IOHelper
-from hiland.web import RequestHelper as rh
+from BasicLibrary.data.listHelper import ListHelper as lh
+from BasicLibrary.io.ioHelper import IOHelper
+from BasicLibrary.web.requestHelper import RequestHelper as rh
 
 
 def comp(x, y):

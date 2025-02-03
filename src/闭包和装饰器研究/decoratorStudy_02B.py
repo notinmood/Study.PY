@@ -20,4 +20,4 @@ def inner_func(a, b):
 
 
 if __name__ == '__main__':
-    foo = inner_func(5, 7)
+    inner_func(5, 7)
