@@ -1,0 +1,2 @@
+加速pip的国内源文件 pip.ini
+这个文件放在 %HOMEPATH%\pip\ 或者 %APPDATA%\pip\ 目录下
