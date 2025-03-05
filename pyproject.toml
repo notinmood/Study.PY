@@ -4,6 +4,7 @@ version = "0.1.38"
 description = ""
 authors = ["解大劦 <develope@163.com>"]
 readme = "README.md"
+packages = [{ include = "src" }] # 指定 src 目录是包的根目录
 
 
 [tool.poetry.dependencies]
