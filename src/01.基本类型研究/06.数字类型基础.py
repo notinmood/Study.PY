@@ -22,6 +22,7 @@ def display(value):
     pass
 
     print("-----------------------")
+    print("")
 
 
 # 数字类型

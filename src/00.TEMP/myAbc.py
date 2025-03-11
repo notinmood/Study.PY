@@ -9,6 +9,11 @@
 
 
 class MyAbc(object):
+    def __init__(self, arg: str):
+        self.arg = arg
+
+    pass
+
     def func_name(self, arg_name: str):
         _arg_name = arg_name
         _handler = self
