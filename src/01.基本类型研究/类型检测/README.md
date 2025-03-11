@@ -10,7 +10,7 @@ PyCharm本身支持mypy，但需要安装插件，具体方法请参考官方文
 
 使用mypy进行静态类型检测。
 
-安装：`pip install mypy`
+安装：`pip install mypy`或者 `poetry add mypy`
 
 
 
