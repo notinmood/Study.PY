@@ -20,7 +20,7 @@ class Student(object):
         return "Student object (name: %s, age: %d, grade: %d)" % (self.name, self.age, self.grade)
 
     def __del__(self):
-        print("Student object is destroyed!")
+        print("Student object 被销毁!")
 
     def __len__(self):
         return self.grade
