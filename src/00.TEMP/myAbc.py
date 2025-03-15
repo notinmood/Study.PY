@@ -20,4 +20,5 @@ class MyAbc(object):
 
 
 if __name__ == '__main__':
+    lambda x: x + x
     pass
